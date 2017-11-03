@@ -6,4 +6,6 @@ main branching edit
 
 pushing and pushing
 
+pushing and pulling
+
 
